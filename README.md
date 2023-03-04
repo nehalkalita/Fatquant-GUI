@@ -1,5 +1,7 @@
 # Fatquant-GUI
 This is a Windows based GUI application for the Fatquant tool. 
+![alt text](Fatquant_readme_display.png)
+
 Please read the document 'Tutorial.docx' before running the 'exe' file.
 
 The application was designed for the experiment mentioned in:
