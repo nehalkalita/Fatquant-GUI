@@ -7,11 +7,9 @@ Please read the document 'Tutorial.docx' before running the 'exe' file.
 
 Video tutorial link:
 <html>
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/ZsvcVp1jbbI" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ZsvcVp1jbbI"><img src="https://img.youtube.com/vi/ZsvcVp1jbbI/0.jpg" alt="fat analysis"></a>
+</div>
 </html>
 
 The application was designed for the experiment mentioned in:
