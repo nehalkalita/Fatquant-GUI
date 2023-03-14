@@ -1,7 +1,7 @@
 # Fatquant-GUI
 This is a Windows based GUI application for the Fatquant tool. 
 
-![alt text](snapshot.png)
+[//]: <> (![alt text](snapshot.png))
 
 Please read the document 'Tutorial.docx' before running the 'exe' file.
 
