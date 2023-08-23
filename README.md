@@ -5,11 +5,7 @@ This is a Windows based GUI application for the Fatquant tool.
 Please read the document 'Tutorial.docx' before running the 'exe' file.
 
 Video tutorial link:
-<html>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=ZsvcVp1jbbI"><img src="https://img.youtube.com/vi/ZsvcVp1jbbI/0.jpg" alt="fat analysis"></a>
-</div>
-</html>
+[![Watch the video](https://github.com/nehalkalita/Fatquant-GUI/blob/main/tool_snapshot.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=ZsvcVp1jbbI))
 
 
 The application was designed for the experiment mentioned in:
